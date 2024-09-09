@@ -70,3 +70,15 @@
 
 
 ![Screenshot (111)](https://github.com/user-attachments/assets/3b7a4c7f-f7bd-4e31-900f-efe561aa62c8)
+
+
+
+#dff+gate
+
+
+![dff+gate](https://github.com/user-attachments/assets/85adb4be-f707-4d05-9b6f-ab46b84188d2)
+
+
+
+
+
