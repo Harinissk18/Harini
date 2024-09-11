@@ -80,5 +80,51 @@
 
 
 
+#mux and dff
+
+
+
+![mux and dff1](https://github.com/user-attachments/assets/ed31ab6c-16f7-46bf-83cb-cb87dcf471e2)
+
+
+#mux and dff2
+
+![mux and dff 2](https://github.com/user-attachments/assets/1dd2b659-5307-477f-861e-5e1f1700bebf)
+
+
+#detect edge
+
+
+![detect  an edge](https://github.com/user-attachments/assets/474f2277-9052-403d-884f-f5198399910a)
+
+
+![detect an edge output](https://github.com/user-attachments/assets/8798f33e-1a75-4f7c-98cc-658ed192ecf5)
+
+
+#edge detect 2
+
+![edge detect 2](https://github.com/user-attachments/assets/ad67378e-9894-4a2a-adf6-4d32d1e24895)
+
+
+
+
+![edge detect 2 output](https://github.com/user-attachments/assets/7349e89c-4c5a-4fb5-9baf-1bc6dd5403bf)
+
+
+#dual edge triggering
+
+
+
+![dual edge triggering](https://github.com/user-attachments/assets/8cbadc40-70e1-405b-bfe1-a6e0022d6815)
+
+
+
+![dual edge triggering output](https://github.com/user-attachments/assets/b58f4c74-e881-4c5a-8f2c-b6ab68f3a18c)
+
+
+
+
+
+
 
 
